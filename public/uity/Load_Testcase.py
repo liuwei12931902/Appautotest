@@ -19,8 +19,8 @@ class read_case(object):
             'CSRFToken': 'da7a1be606ee8b177d3f70035a734c323c514568d5381e86ad03b52700e4d2dd4361afddd98d3805f30c09a919eaa5ed9cda0edf8adb917ab91d992c236e439f',
             'reqURI': '',
             'destination': '',
-            'tl_login': 'liuwei',
-            'tl_password': 'sbkill1rqlb6x',
+            'tl_login': '',
+            'tl_password': '',
         }
         header = {
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
