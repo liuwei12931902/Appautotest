@@ -11,7 +11,7 @@ class CommonConfig(object):
     通用配置文件
     """
     def baseUrl(self):
-        return 'test-wireless-00.xiaozhu.com'
+        return ''
 
     def getCurrentTime(self):
         format = '%Y-%m-%d %H:%M:%S'
