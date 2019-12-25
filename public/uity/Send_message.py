@@ -9,13 +9,11 @@ from config import globelsetting
 
 class SendMessage(object):
     def __init__(self, Case):
-        self.ssh_host = '10.0.0.221'
+        self.ssh_host = ''
         self.ssh_port = 22
-        self.username = 'xztest'
-        self.password = '7c5cb6e5320e6c47f227841c'
-        self.phone_number = ["13691422660", "18710463392", "15810216327", "15933678685", "18301448312", "18500361743",
-                             "13436961715", "18844195352", "13910725671", "18210023150", "15810501841", "17744408687",
-                             "15311809338", "15600655599"]
+        self.username = ''
+        self.password = ''
+        self.phone_number = []
         self.content = Case
 
     def connectxztest(self):
